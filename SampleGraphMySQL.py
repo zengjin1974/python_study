@@ -38,6 +38,8 @@ class SampleMysql:
 
         plt.grid(False)
 
+        plt.savefig("./SampleGraphMySQL.jpg")
+
         plt.show()
 
 
